@@ -1,0 +1,36 @@
+.blue-btn{
+    background: #8080ff;
+    color: white;
+    padding: 30px 60px;
+}
+.buttons_area{
+    padding: 100px 100px;
+    text-align: center;
+}
+.buttons{
+    margin-left: 28%;
+}
+.button{
+    margin-top: 61px;
+    margin-left: 33%;
+}
+.red-btn{
+    padding: 30px 120px;
+    background:  #ff8080;
+    color: white;
+}
+.add-btn{
+    margin: 5%;
+}
+.blue-btn-add{
+    background: #8080ff;
+    color: white;
+    padding: 20px 30px;
+}
+.report-btn {
+    margin-top: 8%;
+    padding: 10px 20px;
+    background: #ff8080;
+    color: white!important;
+    border: #ff8080!important;
+}
